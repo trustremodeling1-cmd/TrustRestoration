@@ -1,0 +1,29 @@
+{
+  "name": "trust-restoration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trust Restoration - 24/7 Emergency Water Damage & Restoration Services in Houston, Spring, Humble, Kingwood, Atascocita & Cypress TX.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "water-damage",
+    "restoration",
+    "Houston",
+    "Trust Restoration",
+    "mold-remediation",
+    "emergency-service"
+  ],
+  "author": "Trust Restoration",
+  "license": "MIT"
+}
